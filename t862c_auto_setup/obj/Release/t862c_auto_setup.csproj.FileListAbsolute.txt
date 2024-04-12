@@ -1,0 +1,8 @@
+D:\code\cshap\tester_ui_layout\t862c_auto_setup_\t862c_auto_setup\bin\Release\Layout1.exe.config
+D:\code\cshap\tester_ui_layout\t862c_auto_setup_\t862c_auto_setup\bin\Release\Layout1.exe
+D:\code\cshap\tester_ui_layout\t862c_auto_setup_\t862c_auto_setup\bin\Release\Layout1.pdb
+D:\code\cshap\tester_ui_layout\t862c_auto_setup_\t862c_auto_setup\obj\Release\Layout1.frmMain.resources
+D:\code\cshap\tester_ui_layout\t862c_auto_setup_\t862c_auto_setup\obj\Release\Layout1.Properties.Resources.resources
+D:\code\cshap\tester_ui_layout\t862c_auto_setup_\t862c_auto_setup\obj\Release\t862c_auto_setup.csproj.GenerateResource.Cache
+D:\code\cshap\tester_ui_layout\t862c_auto_setup_\t862c_auto_setup\obj\Release\Layout1.exe
+D:\code\cshap\tester_ui_layout\t862c_auto_setup_\t862c_auto_setup\obj\Release\Layout1.pdb
